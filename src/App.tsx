@@ -12,7 +12,7 @@ function App() {
       image: "/character/one.png",
     },
     {
-      content: `You've been trolling me all week asbout this...
+      content: `You've been trolling me all week about this...
       `,
       image: "/character/two.png",
     },
